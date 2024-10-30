@@ -1,0 +1,11 @@
+body{
+    background-image : url(https://media.istockphoto.com/id/1460755337/photo/white-color-theme-modern-style-office-with-exposed-concrete-floor-and-a-lot-of-plant-3d.webp?b=1&s=170667a&w=0&k=20&c=vjO4QhU7YP-UEdHsrECZH01Nvj0T5aqnoWSh02XdLeo=);
+    background-size : cover;
+}
+
+.card{
+    margin-top : 5em;
+    margin-left : 30em;
+    margin-right :30px ;
+}
+
